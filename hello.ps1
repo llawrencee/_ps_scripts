@@ -1,7 +1,6 @@
 Write-Host 'Hello from PowerShell!' -ForegroundColor Green
-Write-Host '5'
 Start-Sleep -Seconds 1
-Write-Host '4'
+Write-Host '5'
 Start-Sleep -Seconds 1
 Write-Host '4'
 Start-Sleep -Seconds 1
